@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(125, 235, 220);
+}
+div.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    
+}
+p{
+    font-size: 20px;
+    line-height: 1.5;
+}
